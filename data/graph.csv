@@ -1,0 +1,114 @@
+From,To,Weight
+Hội trường C2,Tòa C9,100
+Hội trường C2,Tòa C1,140
+Hội trường C2,Tòa C3,550
+Hội trường C2,Tòa C4,500
+Hội trường C2,Tòa C5,270
+Hội trường C2,Tòa C10,260
+Tòa C9,Tòa C5,220
+Tòa C9,Tòa C10,210
+Tòa C9,Tòa D2A,150
+Tòa C1,Tòa C3,140
+Tòa C3,Tòa C4,120
+Tòa C3,Tòa C6,150
+Tòa C4,Tòa C5,160
+Tòa C4,Tòa C7,150
+Tòa C4,Tòa C6,100
+Tòa C5,Tòa C10,10
+Tòa C5,Tòa C7,90
+Tòa C5,Tòa C6,140
+Tòa C10,BK Alumin,180
+Tòa C10,Thư viện TQB,280
+Tòa C10,Tòa D3,220
+Tòa C10,Tòa C7,110
+Tòa D2A,Tòa D4,230
+Tòa D2A,Tòa D6,140
+Tòa D4,Tòa D6,400
+Tòa D4,Tòa D8,450
+Tòa D6,Tòa D8,40
+Tòa D6,BK Alumin,100
+Tòa D6,Hồ Tiền,20
+Tòa D8,Hồ Tiền,20
+BK Alumin,Hồ Tiền,140
+BK Alumin,Thư viện TQB,110
+Hồ Tiền,Thư viện TQB,190
+Hồ Tiền,Tòa D9,300
+Thư viện TQB,Tòa D9,650
+Thư viện TQB,Tòa D7,300
+Thư viện TQB,Tòa D5,20
+Thư viện TQB,Tòa D3,140
+Tòa D9,Tòa D7,300
+Tòa D9,Tòa D5,600
+Tòa D7,Tòa D5,300
+Tòa D5,Tòa D3-5,20
+Tòa D5,Tòa D3,10
+Tòa D3-5,Tòa D3,20
+Tòa D3-5,Tòa C7,220
+Tòa D3-5,Tòa B8,250
+Tòa D3-5,Tòa B1,400
+Tòa D3,Tòa C7,200
+Tòa C7,Tòa C6,130
+Tòa C7,Tòa B8,270
+Tòa C7,Tòa B1,400
+Tòa B8,Tòa B7bis,110
+Tòa B8,Tòa B10,190
+Tòa B8,Tòa B1,240
+Tòa B7bis,Tòa B7,40
+Tòa B7bis,Tòa B9,300
+Tòa B7,Tòa B6,400
+Tòa B7,Tòa B5,350
+Tòa B7,Tòa B9,350
+Tòa B6,Tòa B5,210
+Tòa B6,Tòa B9,210
+Tòa B5,Tòa B9,0
+Tòa B5,Tòa B13,110
+Tòa B5,Trạm xá,40
+Tòa B9,Tòa B13,110
+Tòa B9,Trạm xá,40
+Tòa B9,Tòa B3,110
+Tòa B13,Trạm xá,80
+Trạm xá,Tòa B4,290
+Trạm xá,Tòa B3,70
+Tòa B4,Tòa B3,450
+Tòa B3,Tòa B10,110
+Tòa B10,Tòa B1,300
+Tòa B10,Nhà F,210
+Tòa B10,Nhà ăn A15,180
+Tòa B1,Nhà F,100
+Tòa B1,Nhà ăn A15,180
+Tòa B1,Nhà A17,160
+Tòa B1,Nhà E,240
+Tòa B1,Nhà T,800
+Tòa B1,Ký túc xá A3,300
+Tòa B1,Sân vận động BK,550
+Tòa B1,Bể bơi BK,70
+Tòa B1,Nhà thi đấu,300
+Tòa B1,Tòa TC,400
+Nhà F,Nhà ăn A15,80
+Nhà F,Nhà A17,60
+Nhà F,Bể bơi BK,30
+Nhà F,Nhà thi đấu,200
+Nhà F,Tòa TC,300
+Nhà ăn A15,Nhà A17,120
+Nhà ăn A15,Bể bơi BK,120
+Nhà ăn A15,Nhà thi đấu,260
+Nhà ăn A15,Tòa TC,400
+Nhà A17,Nhà E,80
+Nhà A17,Sân vận động BK,500
+Nhà A17,Bể bơi BK,10
+Nhà A17,Nhà thi đấu,130
+Nhà A17,Tòa TC,250
+Nhà E,Nhà T,70
+Nhà E,Ký túc xá A3,100
+Nhà E,Sân vận động BK,90
+Nhà E,Bể bơi BK,90
+Nhà E,Nhà thi đấu,140
+Nhà E,Tòa TC,200
+Nhà T,Ký túc xá A3,160
+Ký túc xá A3,Sân vận động BK,150
+Sân vận động BK,Bể bơi BK,180
+Sân vận động BK,Nhà thi đấu,230
+Sân vận động BK,Tòa TC,280
+Bể bơi BK,Nhà thi đấu,140
+Bể bơi BK,Tòa TC,260
+Nhà thi đấu,Tòa TC,300

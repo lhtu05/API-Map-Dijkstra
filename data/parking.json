@@ -1,0 +1,6 @@
+[
+  { "name": "Nhà xe C7", "lat": 21.00526, "lng": 105.84470, "available": 100, "total": 300 },
+  { "name": "Bãi xe D3-5", "lat": 21.00474, "lng": 105.84547, "available": 100, "total": 300 },
+  { "name": "Bãi xe D9", "lat": 21.00402, "lng": 105.84449, "available": 100, "total": 300 },
+  { "name": "Bãi xe D6", "lat": 21.00463, "lng": 105.84245, "available": 100, "total": 300 }
+]
